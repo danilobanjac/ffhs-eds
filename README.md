@@ -8,4 +8,5 @@ Forked from [here](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-E
 4. Run `docker run -p 8888:8888 danilobanjac/ffhs-eds`
 
 ## TODO's
+- [ ] Fix `twitter.oauth` import
 - [ ] Fix Binder build
